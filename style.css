@@ -1,0 +1,46 @@
+.a{
+    color: red;
+    font-style: italic;
+}
+.b{
+    float: left;
+    width: 200px;
+    margin-right: 10px;
+}
+.c{
+    float: left;
+    width: 316px;
+    margin-right: 10px;
+}
+.d{
+    float: left;
+    width: 394px;
+    margin-right: 10px;
+}
+.e{
+    width: 255px;
+    margin-right: 10px;
+}
+body{
+
+    color: greenyellow;
+    background-color: green;
+}
+.f{
+    color: red;
+} 
+.g{
+    float: left;
+    width: 255px;
+    margin-right: 10px;
+}
+.l{
+    color: red;
+    font-style: bold;
+}
+.n{
+    font-size: 30px;
+}
+.o{
+    color: red;
+}
